@@ -1,0 +1,9 @@
+We'll need following set of libraries and framework to train our model on:
+1.tensorflow
+2.numpy
+3.matplotlib
+4.scikit-learn
+5.opencv-python
+6.seaborn
+
+To install these use : "pip install numpy".
